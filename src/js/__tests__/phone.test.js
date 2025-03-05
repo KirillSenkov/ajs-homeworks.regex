@@ -1,6 +1,6 @@
 import formatPhone from '../phone.js';
 
-describe("Функция sum", () => {
+describe("testing phone.js", () => {
     test.each([ 
         ['8 (927) 000-00-00', '+79270000000'],
         ['+7 960 000 00 00', '+79600000000'],
